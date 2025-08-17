@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Cristian Valentin Anghel</h1>
-<h3 align="center">💼 Junior Developer | ERP Specialist (Deister) | 🎓 Multiplatform App Development Graduate | Future UOC Student</h3>
+<h3 align="center">💼 Junior Developer | ERP Specialist | 🎓 Multiplatform App Development Graduate | Computer Engineering at UOC</h3>
 
 ---
 
