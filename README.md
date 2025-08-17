@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Cristian Valentin Anghel</h1>
-<h3 align="center">💼 Junior Developer | ERP Specialist | 🎓 Multiplatform App Development Graduate | Computer Engineering at UOC</h3>
+<h3 align="center">💼 Junior Developer | ERP Specialist | 🎓 Multiplatform App Development Graduate | Computer Engineering Student at UOC</h3>
 
 ---
 
@@ -51,7 +51,7 @@ In my free time, I love creating **websites**, developing **mobile apps**, and w
 ---
 
 ### ⚡ Fun fact:
-> I studied game dev, now I build ERP solutions… but I still create apps and websites for fun 😉  
+> I studied game dev, now I build ERP solutions… but I still create apps and websites for fun   
 > Oh, and I still hate virtual machines 😤
 
 ---
