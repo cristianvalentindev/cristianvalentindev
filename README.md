@@ -1,22 +1,26 @@
 <h1 align="center">👋 Hi, I'm Cristian Valentin Anghel</h1>
-<h3 align="center">💼 Junior Developer | ERP Specialist (Deister) | 🎓 Graduate in Multiplatform App Development | Future UOC Student</h3>
+<h3 align="center">💼 Junior Developer | ERP Specialist (Deister) | 🎓 Multiplatform App Development Graduate | Future UOC Student</h3>
 
 ---
 
-I'm a motivated and adaptable developer who completed a **DAM degree with a focus on video games** at **La Salle Girona**. Even though my training was game-oriented, I’ve shifted my professional focus to **enterprise software development**, currently working with the **Deister ERP platform**.
+I'm a curious and versatile developer who graduated in **Multiplatform App Development** (DAM) at **La Salle Girona**, where I focused on game development. Today, I work professionally with **Deister**, an ERP platform, where I contribute to building and customizing enterprise solutions.
 
-💡 I enjoy working on real-world business problems, optimizing internal tools, and improving processes through technology. I’m always learning and evolving to adapt to both backend logic and frontend experience.
+But outside of work…  
+💡 I genuinely enjoy building things.
 
----
-
-### 🎯 Currently:
-- 🧠 Expanding my knowledge in **Java, JavaScript, SQL, and ERP logic**
-- 💻 Working with **Deister** to develop and customize business applications
-- 🎓 Preparing to continue my academic journey at **UOC**
+In my free time, I love creating **websites**, developing **mobile apps**, and working across **frontend and backend** — combining visual design with solid logic. Whether it's styling a responsive layout or connecting to a database, I enjoy the entire process.
 
 ---
 
-### 📫 Contact:
+### 🧠 Currently:
+- 💼 Working full-time with **Deister ERP**
+- 📚 Preparing to study at the **UOC**
+- 🔧 Exploring full-stack development with **JavaScript, Java, SQL, and APIs**
+- 🧪 Learning by building personal side-projects — from mobile apps to web dashboards
+
+---
+
+### 🔗 Let's Connect:
 <p align="left">
   <a href="https://www.linkedin.com/in/cristian-valentin-anghel-044560262/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -31,12 +35,13 @@ I'm a motivated and adaptable developer who completed a **DAM degree with a focu
 
 ---
 
-### 🛠️ Technologies & Tools:
+### 🛠️ Technologies I Use:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
@@ -46,7 +51,7 @@ I'm a motivated and adaptable developer who completed a **DAM degree with a focu
 ---
 
 ### ⚡ Fun fact:
-> I studied game development, but now I help businesses run better — still playing, just with different rules 😉
+> I studied game dev, now I build ERP solutions… but I still create apps and websites for fun 😉  
+> Oh, and I still hate virtual machines 😤
 
 ---
-
