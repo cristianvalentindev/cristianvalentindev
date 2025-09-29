@@ -16,7 +16,7 @@ In my free time, I love creating **websites**, developing **mobile apps**, and w
 
 ---
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Froboticaupl.wixsite.com%2Fbachillerato&psig=AOvVaw07msa9Q6VE8_NLWImY3RfH&ust=1759220368127000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPj6-NrE_Y8DFQAAAAAdAAAAABAE." width="300" alt="Coding gif"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Froboticaupl.wixsite.com%2Fbachillerato&psig=AOvVaw07msa9Q6VE8_NLWImY3RfH&ust=1759220368127000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPj6-NrE_Y8DFQAAAAAdAAAAABAE" width="300" alt="Coding gif"/>
 </p>
 
 --
@@ -60,10 +60,6 @@ In my free time, I love creating **websites**, developing **mobile apps**, and w
 ---
 
 ### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://roboticaupl.wixsite.com/__static__/..." width="300" alt="Coding gif"/>
-</p>
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
