@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Cristian Valentin Anghel
 ### 💼 Junior Developer | ERP Specialist | 🎓 Multiplatform App Development Graduate | Computer Engineering Student at UOC
 
-<img src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif" alt="Coding Gif" style="max-width: 150%; width: 500px; border-radius: 10px;" />
+<img src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif" alt="Coding Gif" style="max-width: 150%; width: 500px; border-radius: 30px;" />
 
 </div>
 
