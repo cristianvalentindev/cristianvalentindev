@@ -39,7 +39,7 @@ In my free time, I love creating **websites**, developing **mobile apps**, and w
 
 ---
 
-### 🛠️ Technologies I Use
+### 🛠️ Technologies I Use:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -54,61 +54,24 @@ In my free time, I love creating **websites**, developing **mobile apps**, and w
 
 ---
 
-### 📊 Languages I Use Most
+### 📊 My GitHub Stats
 
 <img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="220" alt="Coding gif">
 
-<!-- dejar esta línea en blanco para separar HTML y la tabla/tabla-HTML -->
-
-<table>
-  <thead>
-    <tr>
-      <th align="left">Language</th>
-      <th align="left">Usage</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Python</b> 🐍</td>
-      <td>
-        <img src="https://progress-bar.dev/55/?scale=100&width=280&suffix=%2525&color=7957d5" alt="54.52%"/>
-        <span>54.52% </span>
-      </td>
-    </tr>
-    <tr>
-      <td><b>JavaScript</b> ⚡</td>
-      <td>
-        <img src="https://progress-bar.dev/27/?scale=100&width=280&suffix=%2525&color=4c9aef" alt="27.20%"/>
-        <span>27.20%</span>
-      </td>
-    </tr>
-    <tr>
-      <td><b>SCSS</b> 🎨</td>
-      <td>
-        <img src="https://progress-bar.dev/11/?scale=100&width=280&suffix=%2525&color=ff6aa8" alt="11.10%"/>
-        <span>11.10%</span>
-      </td>
-    </tr>
-    <tr>
-      <td><b>HTML</b> 🧱</td>
-      <td>
-        <img src="https://progress-bar.dev/4/?scale=100&width=280&suffix=%2525&color=f16529" alt="3.92%"/>
-        <span>3.92%</span>
-      </td>
-    </tr>
-    <tr>
-      <td><b>CSS</b> 🎨</td>
-      <td>
-        <img src="https://progress-bar.dev/3/?scale=100&width=280&suffix=%2525&color=2965f1" alt="3.01%"/>
-        <span>3.01%</span>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" align="center"
+      src="https://github-readme-stats.vercel.app/api?username=cristianvalentindev&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&border_radius=10&custom_title=Cristian%27s%20GitHub%20Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=cristianvalentindev&layout=compact&langs_count=8&card_width=320&theme=dark&hide_border=true&border_radius=10&custom_title=Most%20Used%20Languages" />
+  </a>
+</p>
 
 ---
 
-### ⚡ Fun fact
+### ⚡ Fun fact:
 > I studied game dev, now I build ERP solutions… but I still create apps and websites for fun  
 > Oh, and I still hate virtual machines 😤
 
