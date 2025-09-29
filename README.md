@@ -50,6 +50,23 @@ In my free time, I love creating **websites**, developing **mobile apps**, and w
 
 ---
 
+### 📊 Languages I Use Most
+
+<p align="center">
+  <img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="Coding gif"/>
+</p>
+
+| Language | Usage |
+|---------|-------|
+| **Java** ☕ | ![Java](https://progress-bar.dev/40/?title=40%) |
+| **JavaScript** ⚡ | ![JavaScript](https://progress-bar.dev/30/?title=30%) |
+| **HTML** 🧱 | ![HTML](https://progress-bar.dev/15/?title=15%) |
+| **CSS** 🎨 | ![CSS](https://progress-bar.dev/10/?title=10%) |
+| **SQL** 🗄️ | ![SQL](https://progress-bar.dev/5/?title=5%) |
+
+---
+
+
 ### ⚡ Fun fact:
 > I studied game dev, now I build ERP solutions… but I still create apps and websites for fun   
 > Oh, and I still hate virtual machines 😤
