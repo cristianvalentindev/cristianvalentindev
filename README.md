@@ -3,8 +3,6 @@
 # 👋 Hi, I'm Cristian Valentin Anghel
 ### 💼 Junior Developer | ERP Specialist | 🎓 Multiplatform App Development Graduate | Computer Engineering Student at UOC
 
-<img src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif" alt="Coding Gif" style="width: 100%; max-width: 900px; border-radius: 20px; object-fit: cover;" />
-
 </div>
 
 
@@ -70,6 +68,9 @@ In my free time, I love creating **websites**, developing **mobile apps**, and w
       src="https://github-readme-stats.vercel.app/api/top-langs?username=cristianvalentindev&layout=compact&langs_count=8&card_width=320&theme=dark&hide_border=true&border_radius=10&custom_title=Most%20Used%20Languages" />
   </a>
 </p>
+
+
+<img src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif" alt="Coding Gif" style="width: 100%; max-width: 900px; border-radius: 20px; object-fit: cover;" />
 
 ---
 
