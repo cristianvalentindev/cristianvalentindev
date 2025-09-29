@@ -1,5 +1,9 @@
-<h1 align="center">👋 Hi, I'm Cristian Valentin Anghel</h1>
-<h3 align="center">💼 Junior Developer | ERP Specialist | 🎓 Multiplatform App Development Graduate | Computer Engineering Student at UOC</h3>
+<div align="center">
+
+<h1>👋 Hi, I'm Cristian Valentin Anghel</h1>
+<h3>💼 Junior Developer | ERP Specialist | 🎓 Multiplatform App Development Graduate | Computer Engineering Student at UOC</h3>
+
+</div>
 
 ---
 
@@ -35,7 +39,7 @@ In my free time, I love creating **websites**, developing **mobile apps**, and w
 
 ---
 
-### 🛠️ Technologies I Use:
+### 🛠️ Technologies I Use
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -51,10 +55,9 @@ In my free time, I love creating **websites**, developing **mobile apps**, and w
 ---
 
 ### 📊 Languages I Use Most
+<img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="220" alt="Coding gif"/>
 
-<p align="center">
-  <img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="Coding gif"/>
-</p>
+<!-- deja una línea en blanco entre el <img> y la tabla para que GitHub procese bien la tabla -->
 
 | Language | Usage |
 |---------|-------|
@@ -66,9 +69,8 @@ In my free time, I love creating **websites**, developing **mobile apps**, and w
 
 ---
 
-
-### ⚡ Fun fact:
-> I studied game dev, now I build ERP solutions… but I still create apps and websites for fun   
+### ⚡ Fun fact
+> I studied game dev, now I build ERP solutions… but I still create apps and websites for fun  
 > Oh, and I still hate virtual machines 😤
 
 ---
