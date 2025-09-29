@@ -1,7 +1,7 @@
 <div align="center">
 
-<h1>👋 Hi, I'm Cristian Valentin Anghel</h1>
-<h3>💼 Junior Developer | ERP Specialist | 🎓 Multiplatform App Development Graduate | Computer Engineering Student at UOC</h3>
+# 👋 Hi, I'm Cristian Valentin Anghel
+### 💼 Junior Developer | ERP Specialist | 🎓 Multiplatform App Development Graduate | Computer Engineering Student at UOC
 
 </div>
 
@@ -39,7 +39,7 @@ In my free time, I love creating **websites**, developing **mobile apps**, and w
 
 ---
 
-### 🛠️ Technologies I Use
+### 🛠️ Technologies I Use:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -55,22 +55,23 @@ In my free time, I love creating **websites**, developing **mobile apps**, and w
 ---
 
 ### 📊 Languages I Use Most
-<img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="220" alt="Coding gif"/>
 
-<!-- deja una línea en blanco entre el <img> y la tabla para que GitHub procese bien la tabla -->
+<img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="220" alt="Coding gif">
+
+<!-- 👇 línea en blanco obligatoria para que GitHub renderice la tabla correctamente -->
 
 | Language | Usage |
 |---------|-------|
-| **Java** ☕ | ![Java](https://progress-bar.dev/40/?title=40%) |
-| **JavaScript** ⚡ | ![JavaScript](https://progress-bar.dev/30/?title=30%) |
-| **HTML** 🧱 | ![HTML](https://progress-bar.dev/15/?title=15%) |
-| **CSS** 🎨 | ![CSS](https://progress-bar.dev/10/?title=10%) |
-| **SQL** 🗄️ | ![SQL](https://progress-bar.dev/5/?title=5%) |
+| **Python** 🐍 | ![Python](https://progress-bar.dev/55/?title=54.52%) |
+| **JavaScript** ⚡ | ![JavaScript](https://progress-bar.dev/27/?title=27.20%) |
+| **SCSS** 🎨 | ![SCSS](https://progress-bar.dev/11/?title=11.10%) |
+| **HTML** 🧱 | ![HTML](https://progress-bar.dev/4/?title=3.92%) |
+| **CSS** 🎨 | ![CSS](https://progress-bar.dev/3/?title=3.01%) |
 
 ---
 
-### ⚡ Fun fact
-> I studied game dev, now I build ERP solutions… but I still create apps and websites for fun  
+### ⚡ Fun fact:
+> I studied game dev, now I build ERP solutions… but I still create apps and websites for fun   
 > Oh, and I still hate virtual machines 😤
 
 ---
