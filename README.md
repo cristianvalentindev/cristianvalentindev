@@ -56,6 +56,10 @@ In my free time, I love creating **websites**, developing **mobile apps**, and w
 
 ### 📊 My GitHub Stats
 
+<p align="center">
+  <img src="https://roboticaupl.wixsite.com/__static__/..." width="300" alt="Coding gif"/>
+</p>
+
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180" align="center"
