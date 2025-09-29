@@ -56,8 +56,6 @@ In my free time, I love creating **websites**, developing **mobile apps**, and w
 
 ### 📊 My GitHub Stats
 
-<img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="220" alt="Coding gif">
-
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180" align="center"
