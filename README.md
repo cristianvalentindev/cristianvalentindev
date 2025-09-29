@@ -3,6 +3,8 @@
 # 👋 Hi, I'm Cristian Valentin Anghel
 ### 💼 Junior Developer | ERP Specialist | 🎓 Multiplatform App Development Graduate | Computer Engineering Student at UOC
 
+<img src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif" width="300" alt="Coding Gif"/>
+
 </div>
 
 ---
@@ -15,11 +17,6 @@ But outside of work…
 In my free time, I love creating **websites**, developing **mobile apps**, and working across **frontend and backend** — combining visual design with solid logic. Whether it's styling a responsive layout or connecting to a database, I enjoy the entire process.
 
 ---
-<p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Froboticaupl.wixsite.com%2Fbachillerato&psig=AOvVaw07msa9Q6VE8_NLWImY3RfH&ust=1759220368127000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPj6-NrE_Y8DFQAAAAAdAAAAABAE" width="300" alt="Coding gif"/>
-</p>
-
---
 
 ### 🧠 Currently:
 - 💼 Working full-time with **Deister ERP**
@@ -44,7 +41,7 @@ In my free time, I love creating **websites**, developing **mobile apps**, and w
 
 ---
 
-### 🛠️ Technologies I Use:
+### 🛠️ Technologies I Use
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -53,7 +50,7 @@ In my free time, I love creating **websites**, developing **mobile apps**, and w
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height "40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
