@@ -1,28 +1,25 @@
 <div align="center">
 
 # 👋 Hi, I'm Cristian Valentin Anghel
-### 💼 Junior Developer | ERP Specialist | 🎓 Multiplatform App Development Graduate | Computer Engineering Student at UOC
+### 💼 Junior Developer | 🎓 Multiplatform App Development Graduate | 💻 Computer Engineering Student at UOC
 
 </div>
 
-
-
 ---
 
-I'm a curious and versatile developer who graduated in **Multiplatform App Development** (DAM) at **La Salle Girona**, where I focused on game development. Today, I work professionally with **Deister**, an ERP platform, where I contribute to building and customizing enterprise solutions.
+I'm a curious and versatile developer who graduated in **Multiplatform App Development (DAM)** at **La Salle Girona**, where I focused on **game development**.  
+I’m currently **looking for new opportunities** where I can grow professionally and keep learning through real-world challenges.
 
-But outside of work…  
-💡 I genuinely enjoy building things.
-
-In my free time, I love creating **websites**, developing **mobile apps**, and working across **frontend and backend** — combining visual design with solid logic. Whether it's styling a responsive layout or connecting to a database, I enjoy the entire process.
+I love building things — from **websites** and **mobile apps** to **tools that make work easier**.  
+Whether it’s designing a responsive UI or connecting a backend to a database, I enjoy the entire creative and logical process behind it.
 
 ---
 
 ### 🧠 Currently:
-- 💼 Working full-time with **Deister ERP**
-- 📚 Preparing to study at the **UOC**
+- 🎯 Looking for new opportunities as a **Junior Developer**
+- 📚 Studying **Computer Engineering** at the **UOC**
 - 🔧 Exploring full-stack development with **JavaScript, Java, SQL, and APIs**
-- 🧪 Learning by building personal side-projects — from mobile apps to web dashboards
+- 🧪 Working on personal projects — from **mobile apps** to **web dashboards**
 
 ---
 
@@ -50,7 +47,7 @@ In my free time, I love creating **websites**, developing **mobile apps**, and w
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height "40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
@@ -69,13 +66,12 @@ In my free time, I love creating **websites**, developing **mobile apps**, and w
   </a>
 </p>
 
-
 <img src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif" alt="Coding Gif" style="width: 100%; max-width: 900px; border-radius: 20px; object-fit: cover;" />
 
 ---
 
 ### ⚡ Fun fact:
-> I studied game dev, now I build ERP solutions… but I still create apps and websites for fun  
+> I studied game dev, worked in ERP solutions, and now I’m exploring full-stack web and mobile apps.  
 > Oh, and I still hate virtual machines 😤
 
 ---
