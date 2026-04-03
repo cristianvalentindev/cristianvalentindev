@@ -1,138 +1,97 @@
-                                                                                                                                                                                                            
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Cristian%20Valentin%20Anghel&fontSize=42&fontColor=fff&anima       
-          tion=twinkling&fontAlignY=32&desc=Junior%20Developer%20%7C%20Full-Stack%20Enthusiast%20%7C%20Game%20Dev%20Background&descAlignY=55&descSize=16" />
-       4                                                                                                                                                                                                       
-       5 -[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+things+that+matter+%F0%9F%9A%80;From+gam
-         -e+dev+to+full-stack+%F0%9F%8E%AE%E2%86%92%F0%9F%8C%90;Always+learning%2C+always+shipping+%F0%9F%93%A6;Open+to+new+opportunities+%F0%9F%91%80)](https://git.io/typing-svg)                     
-       5 +![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+things+that+matter+%F0%9F%9A%80;From+game
-         ++dev+to+full-stack+%F0%9F%8E%AE%E2%86%92%F0%9F%8C%90;Always+learning%2C+always+shipping+%F0%9F%93%A6;Open+to+new+opportunities+%F0%9F%91%80)                                                  
-       6  
-       7 -<p>                                                                                                                                                                                           
-       8 -  <a href="https://www.linkedin.com/in/cristian-valentin-anghel-044560262/">                                                                                                                  
-       9 -    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />                                                                       
-      10 -  </a>                                                                                                                                                                                        
-      11 -  <a href="mailto:cristian.anghel235@gmail.com">                                                                                                                                              
-      12 -    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />                                                                                    
-      13 -  </a>                                                                                                                                                                                        
-      14 -  <a href="https://github.com/cristianvalentindev">                                                                                                                                           
-      15 -    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />                                                                                  
-      16 -  </a>                                                                                                                                                                                        
-      17 -</p>                                                                                                                                                                                          
-       7 +<a href="https://www.linkedin.com/in/cristian-valentin-anghel-044560262/">                                                                                                                    
-       8 +  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />                                                                         
-       9 +</a>                                                                                                                                                                                          
-      10 +<a href="mailto:cristian.anghel235@gmail.com">                                                                                                                                                
-      11 +  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />                                                                                      
-      12 +</a>                                                                                                                                                                                          
-      13 +<a href="https://github.com/cristianvalentindev">                                                                                                                                             
-      14 +  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />                                                                                    
-      15 +</a>                                                                                                                                                                                          
-      16  
-      19 -<img src="https://komarev.com/ghpvc/?username=cristianvalentindev&style=flat-square&color=58A6FF" alt="Profile Views" />                                                                      
-      17 +<br/>                                                                                                                                                                                         
-      18  
-      19 +![Profile Views](https://komarev.com/ghpvc/?username=cristianvalentindev&style=flat-square&color=58A6FF)                                                                                      
-      20 +                                                                                                                                                                                              
-      21  </div>
-      22  
-      23  ---
-     ...
-      31    background: "Game Development → ERP Solutions → Full-Stack",
-      32    status:     "Open to new opportunities 👀",
-      33    learning:   ["Full-Stack Web", "Mobile Apps", "System Design"],
-      34 -  funFact:    "I studied game dev, pivoted to ERP, and now I ship web & mobile apps. Still hate VMs. 😤",                                                                                     
-      34 +  funFact:    "I studied game dev, pivoted to ERP, now I ship web & mobile apps. Still hate VMs 😤",                                                                                          
-      35  };
-      36  ```
-      37  
-     ...
-      39  
-      40  ## 🛠️  Tech Stack
-      41  
-      42 -### Languages                                                                                                                                                                                 
-      43 -<p>                                                                                                                                                                                           
-      44 -  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />                                                                            
-      45 -  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />                                                                                     
-      46 -  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />                                                                                      
-      47 -  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />                                                                                        
-      48 -  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />                                                                                        
-      49 -</p>                                                                                                                                                                                          
-      42 +**Languages**                                                                                                                                                                                 
-      43  
-      51 -### Frameworks & Libraries                                                                                                                                                                    
-      52 -<p>                                                                                                                                                                                           
-      53 -  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />                                                                                     
-      54 -  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />                                                                                
-      55 -</p>                                                                                                                                                                                          
-      44 +![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)                                                                             
-      45 +![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)                                                                                            
-      46 +![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)                                                                                            
-      47 +![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)                                                                                               
-      48 +![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)                                                                                                
-      49  
-      57 -### Databases                                                                                                                                                                                 
-      58 -<p>                                                                                                                                                                                           
-      59 -  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />                                                                                      
-      60 -  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />                                                                                  
-      61 -</p>                                                                                                                                                                                          
-      50 +**Frameworks & Libraries**                                                                                                                                                                    
-      51  
-      63 -### Tools & Platforms                                                                                                                                                                         
-      64 -<p>                                                                                                                                                                                           
-      65 -  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />                                                                                          
-      66 -  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />                                                                                    
-      67 -  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />                                                                                      
-      68 -  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />                                                                       
-      69 -</p>                                                                                                                                                                                          
-      52 +![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)                                                                                           
-      53 +![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)                                                                                    
-      54  
-      55 +**Databases**                                                                                                                                                                                 
-      56 +                                                                                                                                                                                              
-      57 +![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)                                                                                            
-      58 +![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)                                                                                      
-      59 +                                                                                                                                                                                              
-      60 +**Tools**                                                                                                                                                                                     
-      61 +                                                                                                                                                                                              
-      62 +![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)                                                                                                  
-      63 +![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)                                                                                         
-      64 +![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)                                                                                            
-      65 +![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)                                                                           
-      66 +                                                                                                                                                                                              
-      67  ---
-      68  
-      69  ## 📊 GitHub Stats
-      70  
-      71  <div align="center">
-      76 -  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cristianvalentindev&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=tru
-         -e&border_radius=12&custom_title=Cristian%27s%20GitHub%20Stats&rank_icon=github" />                                                                                                            
-      77 -  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristianvalentindev&layout=compact&langs_count=8&card_width=320&theme=github_dark&hide_border=true&bord
-         -er_radius=12&custom_title=Most%20Used%20Languages" />                                                                                                                                         
-      78 -</div>                                                                                                                                                                                        
-      72  
-      80 -<div align="center">                                                                                                                                                                          
-      81 -  <img src="https://streak-stats.demolab.com?user=cristianvalentindev&theme=github-dark-blue&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D" />                                
-      82 -</div>                                                                                                                                                                                        
-      73 +![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cristianvalentindev&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&border_
-         +radius=12&custom_title=Cristian%27s%20GitHub%20Stats&rank_icon=github)                                                                                                                        
-      74 +![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=cristianvalentindev&layout=compact&langs_count=8&card_width=320&theme=github_dark&hide_border=true&border_radius=12
-         +&custom_title=Most%20Used%20Languages)                                                                                                                                                        
-      75  
-      84 -<div align="center">                                                                                                                                                                          
-      85 -  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cristianvalentindev&theme=github-compact&hide_border=true&radius=12&area=true" />                                  
-      76 +![GitHub Streak](https://streak-stats.demolab.com?user=cristianvalentindev&theme=github-dark-blue&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D)                              
-      77 +                                                                                                                                                                                              
-      78 +![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cristianvalentindev&theme=github-compact&hide_border=true&radius=12&area=true)                               
-      79 +                                                                                                                                                                                              
-      80  </div>
-      81  
-      82  ---
-     ...
-       91  ---
-       92  
-       93  <div align="center">
-      100 -  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />                                                           
-       94 +                                                                                                                                                                                             
-       95 +<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />                                                             
-       96 +                                                                                                                                                                                             
-       97  </div>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Cristian%20Valentin%20Anghel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Junior%20Developer%20%7C%20Full-Stack%20Enthusiast%20%7C%20Game%20Dev%20Background&descAlignY=55&descSize=16" />
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+things+that+matter+%F0%9F%9A%80;From+game+dev+to+full-stack+%F0%9F%8E%AE%E2%86%92%F0%9F%8C%90;Always+learning%2C+always+shipping+%F0%9F%93%A6;Open+to+new+opportunities+%F0%9F%91%80)
+
+<a href="https://www.linkedin.com/in/cristian-valentin-anghel-044560262/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:cristian.anghel235@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/cristianvalentindev">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=cristianvalentindev&style=flat-square&color=58A6FF)
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```ts
+const cristian = {
+  location:   "Girona, Spain 🇪🇸",
+  education:  ["DAM @ La Salle Girona", "Computer Engineering @ UOC"],
+  background: "Game Development → ERP Solutions → Full-Stack",
+  status:     "Open to new opportunities 👀",
+  learning:   ["Full-Stack Web", "Mobile Apps", "System Design"],
+  funFact:    "I studied game dev, pivoted to ERP, now I ship web & mobile apps. Still hate VMs 😤",
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cristianvalentindev&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&border_radius=12&custom_title=Cristian%27s%20GitHub%20Stats&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=cristianvalentindev&layout=compact&langs_count=8&card_width=320&theme=github_dark&hide_border=true&border_radius=12&custom_title=Most%20Used%20Languages)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=cristianvalentindev&theme=github-dark-blue&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cristianvalentindev&theme=github-compact&hide_border=true&radius=12&area=true)
+
+</div>
+
+---
+
+## 🎯 Currently
+
+- 🔍 **Open to Junior Developer roles** — web, mobile, or backend
+- 📚 **Studying** Computer Engineering at **UOC**
+- 🛠️ **Building** personal projects: mobile apps, web dashboards, REST APIs
+- 🎮 **Background** in game development — Unity, Java, game logic design
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+</div>
