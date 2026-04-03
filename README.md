@@ -1,5 +1,5 @@
-       2                                                                                                                                                                                                       
-       3  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Cristian%20Valentin%20Anghel&fontSize=42&fontColor=fff&anima       
+                                                                                                                                                                                                            
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Cristian%20Valentin%20Anghel&fontSize=42&fontColor=fff&anima       
           tion=twinkling&fontAlignY=32&desc=Junior%20Developer%20%7C%20Full-Stack%20Enthusiast%20%7C%20Game%20Dev%20Background&descAlignY=55&descSize=16" />
        4                                                                                                                                                                                                       
        5 -[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+things+that+matter+%F0%9F%9A%80;From+gam
