@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Cristian%20Valentin%20Anghel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Junior%20Developer%20%7C%20Full-Stack%20Enthusiast%20%7C%20Game%20Dev%20Background&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Cristian%20Valentin%20Anghel&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Junior%20Developer%20%7C%20Full-Stack%20Enthusiast%20%7C%20Game%20Dev%20Background&descAlignY=55&descSize=17" />
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+things+that+matter+%F0%9F%9A%80;From+game+dev+to+full-stack+%F0%9F%8E%AE%E2%86%92%F0%9F%8C%90;Always+learning%2C+always+shipping+%F0%9F%93%A6;Open+to+new+opportunities+%F0%9F%91%80)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+things+that+matter+%F0%9F%9A%80;From+game+dev+to+full-stack+%F0%9F%8E%AE%E2%86%92%F0%9F%8C%90;Always+learning%2C+always+shipping+%F0%9F%93%A6;Open+to+new+opportunities+%F0%9F%91%80;Let%27s+build+something+cool+together+%F0%9F%94%A5)
 
 <a href="https://www.linkedin.com/in/cristian-valentin-anghel-044560262/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -16,7 +16,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=cristianvalentindev&style=flat-square&color=58A6FF)
+![Profile Views](https://komarev.com/ghpvc/?username=cristianvalentindev&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
 
 </div>
 
@@ -75,7 +75,49 @@ const cristian = {
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=cristianvalentindev&theme=github-dark-blue&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D)
 
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=cristianvalentindev&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cristianvalentindev&theme=github-compact&hide_border=true&radius=12&area=true)
+
+</div>
+
+---
+
+## 🐍 My Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cristianvalentindev/cristianvalentindev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cristianvalentindev/cristianvalentindev/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/cristianvalentindev/cristianvalentindev/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## 💬 Quote of the Day
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
@@ -92,6 +134,8 @@ const cristian = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Feel+free+to+reach+out+%F0%9F%93%A7;Let%27s+build+something+together+%F0%9F%9A%80)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 </div>
